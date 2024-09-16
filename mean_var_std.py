@@ -14,8 +14,6 @@ def calculate(list):
     calculations['max'] = max_calculations(arr)
     calculations['min'] = min_calculations(arr)
     calculations['sum'] = sum_calculations(arr)
-
-    print(calculations)
     
     return calculations
 
